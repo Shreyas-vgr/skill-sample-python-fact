@@ -5,4 +5,4 @@ git add models/*
 git add lambda/*
 git commit -am "updating models and code for testing"
 git push
-exit 0
+exit $?
